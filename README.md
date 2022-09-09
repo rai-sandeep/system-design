@@ -1,9 +1,9 @@
-# system-design
+# System Design
 System Design Concepts and Use Cases
 
 ## Distributed Systems
 
-In a distributed system, components are spread across multiple computing devices (also called nodes) on a network.
+In a distributed system, components are spread across multiple computing devices (also called nodes) on a network. Most of the topics discussed here are    related to distributed systems.
 
 ## CAP Theorem
 
